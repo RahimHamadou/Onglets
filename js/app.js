@@ -1,6 +1,6 @@
 // declaration de variables
 // methode Array.from afin de mettre le contenu de la variable dans un tableau
-const onglets = Array.from(document.querySelectorAll(".onglets"));
+const onglets = Array.from(document.querySelectorAll(".onglets p"));
 // console.log(onglets);
 const contenus = Array.from(document.querySelectorAll(".contenus"));
 // console.log(contenus);
