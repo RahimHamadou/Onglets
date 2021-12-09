@@ -8,6 +8,7 @@
 }
 body {
 	background: url("../assets/travel.jpeg");
+	background-position: center;
 	backdrop-filter: blur(2px);
 	background-size: cover;
 	/* background: #f1f1f1; */
