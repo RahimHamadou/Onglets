@@ -66,6 +66,7 @@ body {
 /* mise en page */
 
 .contenus {
+	padding: 50px 0;
 	height: 80%;
 	width: 100%;
 	position: absolute;
